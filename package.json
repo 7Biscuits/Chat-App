@@ -1,0 +1,16 @@
+{
+  "name": "ChatApp",
+  "version": "1.0.0",
+  "description": "A node.js application to send and receive text messages ",
+  "main": "app.js",
+  "author": "Rudransh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
